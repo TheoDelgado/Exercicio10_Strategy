@@ -1,1 +1,1 @@
-# Exercicio10_Strategy
+![Diagrama Strategy](Diagrama_Strategy.jpg)
